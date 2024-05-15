@@ -5,7 +5,7 @@ Meu nome é Gabriel Ferreira
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-
+!
 ### Você pode entrar em contato comigo :mailbox
 
 gabrielm12345f@gmail.com
